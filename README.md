@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/AloysJehwin/LeetCode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/AloysJehwin/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/AloysJehwin/LeetCode/tree/master/0169-majority-element) |
 | [2411-spiral-matrix-iv](https://github.com/AloysJehwin/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AloysJehwin/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Linked List
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AloysJehwin/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/AloysJehwin/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AloysJehwin/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/AloysJehwin/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AloysJehwin/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AloysJehwin/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AloysJehwin/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
