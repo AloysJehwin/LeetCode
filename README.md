@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AloysJehwin/LeetCode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/AloysJehwin/LeetCode/tree/master/0049-group-anagrams) |
 | [2411-spiral-matrix-iv](https://github.com/AloysJehwin/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AloysJehwin/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Linked List
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/AloysJehwin/LeetCode/tree/master/0168-excel-sheet-column-title) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AloysJehwin/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AloysJehwin/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
