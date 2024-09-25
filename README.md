@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AloysJehwin/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AloysJehwin/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AloysJehwin/LeetCode/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/AloysJehwin/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AloysJehwin/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -109,4 +110,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AloysJehwin/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AloysJehwin/LeetCode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/AloysJehwin/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
