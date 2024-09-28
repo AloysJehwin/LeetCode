@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AloysJehwin/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AloysJehwin/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/AloysJehwin/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AloysJehwin/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Linked List
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/AloysJehwin/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AloysJehwin/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/AloysJehwin/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Matrix
 |  |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AloysJehwin/LeetCode/tree/master/0055-jump-game) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
