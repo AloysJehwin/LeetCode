@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/AloysJehwin/LeetCode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/AloysJehwin/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AloysJehwin/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [1250-longest-common-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Sorting
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AloysJehwin/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/AloysJehwin/LeetCode/tree/master/0338-counting-bits) |
+| [1250-longest-common-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
