@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AloysJehwin/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AloysJehwin/LeetCode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/AloysJehwin/LeetCode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/AloysJehwin/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AloysJehwin/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/AloysJehwin/LeetCode/tree/master/0202-happy-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/AloysJehwin/LeetCode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/AloysJehwin/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AloysJehwin/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AloysJehwin/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AloysJehwin/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
