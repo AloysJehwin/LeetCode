@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AloysJehwin/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AloysJehwin/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/AloysJehwin/LeetCode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/AloysJehwin/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/AloysJehwin/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AloysJehwin/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AloysJehwin/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AloysJehwin/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/AloysJehwin/LeetCode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/AloysJehwin/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AloysJehwin/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AloysJehwin/LeetCode/tree/master/0198-house-robber) |
