@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AloysJehwin/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/AloysJehwin/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AloysJehwin/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AloysJehwin/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AloysJehwin/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0202-happy-number](https://github.com/AloysJehwin/LeetCode/tree/master/0202-happy-number) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AloysJehwin/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
