@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AloysJehwin/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/AloysJehwin/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/AloysJehwin/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AloysJehwin/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AloysJehwin/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/AloysJehwin/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2411-spiral-matrix-iv](https://github.com/AloysJehwin/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AloysJehwin/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/AloysJehwin/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/AloysJehwin/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AloysJehwin/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AloysJehwin/LeetCode/tree/master/0202-happy-number) |
