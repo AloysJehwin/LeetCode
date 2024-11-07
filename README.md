@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AloysJehwin/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AloysJehwin/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AloysJehwin/LeetCode/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Design
 |  |
