@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0202-happy-number](https://github.com/AloysJehwin/LeetCode/tree/master/0202-happy-number) |
+| [0443-string-compression](https://github.com/AloysJehwin/LeetCode/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AloysJehwin/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AloysJehwin/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/AloysJehwin/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AloysJehwin/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0443-string-compression](https://github.com/AloysJehwin/LeetCode/tree/master/0443-string-compression) |
 | [1250-longest-common-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Sorting
