@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AloysJehwin/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/AloysJehwin/LeetCode/tree/master/0724-find-pivot-index) |
 | [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AloysJehwin/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/AloysJehwin/LeetCode/tree/master/0724-find-pivot-index) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/AloysJehwin/LeetCode/tree/master/1833-find-the-highest-altitude) |
