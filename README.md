@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/AloysJehwin/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AloysJehwin/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AloysJehwin/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AloysJehwin/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/AloysJehwin/LeetCode/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AloysJehwin/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AloysJehwin/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AloysJehwin/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AloysJehwin/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
