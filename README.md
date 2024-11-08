@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AloysJehwin/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AloysJehwin/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/AloysJehwin/LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/AloysJehwin/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AloysJehwin/LeetCode/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AloysJehwin/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Divide and Conquer
 |  |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/AloysJehwin/LeetCode/tree/master/0871-keys-and-rooms) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AloysJehwin/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
