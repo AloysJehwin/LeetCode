@@ -218,11 +218,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AloysJehwin/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/AloysJehwin/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AloysJehwin/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/AloysJehwin/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Combinatorics
 |  |
 | ------- |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AloysJehwin/LeetCode/tree/master/0226-invert-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AloysJehwin/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
