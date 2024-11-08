@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AloysJehwin/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/AloysJehwin/LeetCode/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/AloysJehwin/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/AloysJehwin/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/AloysJehwin/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1046-max-consecutive-ones-iii](https://github.com/AloysJehwin/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Trie
 |  |
