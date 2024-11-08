@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AloysJehwin/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0394-decode-string](https://github.com/AloysJehwin/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AloysJehwin/LeetCode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/AloysJehwin/LeetCode/tree/master/0649-dota2-senate) |
 | [1250-longest-common-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AloysJehwin/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AloysJehwin/LeetCode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0649-dota2-senate](https://github.com/AloysJehwin/LeetCode/tree/master/0649-dota2-senate) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Design
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AloysJehwin/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/AloysJehwin/LeetCode/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/AloysJehwin/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Combinatorics
