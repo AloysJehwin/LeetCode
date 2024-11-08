@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AloysJehwin/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/AloysJehwin/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/AloysJehwin/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AloysJehwin/LeetCode/tree/master/0735-asteroid-collision) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AloysJehwin/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AloysJehwin/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AloysJehwin/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/AloysJehwin/LeetCode/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AloysJehwin/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AloysJehwin/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AloysJehwin/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AloysJehwin/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/AloysJehwin/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Trie
 |  |
