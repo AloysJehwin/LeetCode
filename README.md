@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AloysJehwin/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AloysJehwin/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AloysJehwin/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/AloysJehwin/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AloysJehwin/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AloysJehwin/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/AloysJehwin/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Data Stream
 |  |
 | ------- |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/AloysJehwin/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/AloysJehwin/LeetCode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
