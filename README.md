@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AloysJehwin/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AloysJehwin/LeetCode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/AloysJehwin/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/AloysJehwin/LeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
 | [0898-transpose-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/AloysJehwin/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AloysJehwin/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AloysJehwin/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/AloysJehwin/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AloysJehwin/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AloysJehwin/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AloysJehwin/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
