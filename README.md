@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/AloysJehwin/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/AloysJehwin/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1046-max-consecutive-ones-iii](https://github.com/AloysJehwin/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AloysJehwin/LeetCode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/AloysJehwin/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/AloysJehwin/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AloysJehwin/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AloysJehwin/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/AloysJehwin/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AloysJehwin/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
