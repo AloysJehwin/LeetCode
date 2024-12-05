@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AloysJehwin/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AloysJehwin/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/AloysJehwin/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0090-subsets-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AloysJehwin/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AloysJehwin/LeetCode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/AloysJehwin/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0898-transpose-matrix) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AloysJehwin/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AloysJehwin/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/AloysJehwin/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/AloysJehwin/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AloysJehwin/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/AloysJehwin/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/AloysJehwin/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/AloysJehwin/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/AloysJehwin/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/AloysJehwin/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
