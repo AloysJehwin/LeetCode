@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AloysJehwin/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AloysJehwin/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/AloysJehwin/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/AloysJehwin/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/AloysJehwin/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/AloysJehwin/LeetCode/tree/master/0649-dota2-senate) |
 | [0742-to-lower-case](https://github.com/AloysJehwin/LeetCode/tree/master/0742-to-lower-case) |
