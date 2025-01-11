@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/AloysJehwin/LeetCode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/AloysJehwin/LeetCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/AloysJehwin/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/AloysJehwin/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AloysJehwin/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/AloysJehwin/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AloysJehwin/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Design
 |  |
