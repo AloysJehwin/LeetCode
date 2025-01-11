@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AloysJehwin/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AloysJehwin/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/AloysJehwin/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/AloysJehwin/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AloysJehwin/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AloysJehwin/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/AloysJehwin/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/AloysJehwin/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AloysJehwin/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/AloysJehwin/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0871-keys-and-rooms](https://github.com/AloysJehwin/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/AloysJehwin/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Data Stream
 |  |
 | ------- |
