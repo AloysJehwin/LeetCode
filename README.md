@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/AloysJehwin/LeetCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/AloysJehwin/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/AloysJehwin/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1137-height-checker](https://github.com/AloysJehwin/LeetCode/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/AloysJehwin/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1137-height-checker](https://github.com/AloysJehwin/LeetCode/tree/master/1137-height-checker) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AloysJehwin/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/AloysJehwin/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/AloysJehwin/LeetCode/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/AloysJehwin/LeetCode/tree/master/1137-height-checker) |
 ## Union Find
 |  |
 | ------- |
