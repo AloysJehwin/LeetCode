@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AloysJehwin/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/AloysJehwin/LeetCode/tree/master/1036-rotting-oranges) |
+| [1044-find-common-characters](https://github.com/AloysJehwin/LeetCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/AloysJehwin/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AloysJehwin/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/AloysJehwin/LeetCode/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/AloysJehwin/LeetCode/tree/master/0649-dota2-senate) |
 | [0742-to-lower-case](https://github.com/AloysJehwin/LeetCode/tree/master/0742-to-lower-case) |
 | [0961-long-pressed-name](https://github.com/AloysJehwin/LeetCode/tree/master/0961-long-pressed-name) |
+| [1044-find-common-characters](https://github.com/AloysJehwin/LeetCode/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
