@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/AloysJehwin/LeetCode/tree/master/0961-long-pressed-name) |
 | [1044-find-common-characters](https://github.com/AloysJehwin/LeetCode/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AloysJehwin/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/AloysJehwin/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AloysJehwin/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Prefix Sum
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/AloysJehwin/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AloysJehwin/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AloysJehwin/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Design
 |  |
