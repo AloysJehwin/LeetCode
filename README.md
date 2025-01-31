@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AloysJehwin/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/AloysJehwin/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/AloysJehwin/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AloysJehwin/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AloysJehwin/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0454-4sum-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/AloysJehwin/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AloysJehwin/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/AloysJehwin/LeetCode/tree/master/1044-find-common-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/AloysJehwin/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0551-student-attendance-record-i](https://github.com/AloysJehwin/LeetCode/tree/master/0551-student-attendance-record-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/AloysJehwin/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0649-dota2-senate](https://github.com/AloysJehwin/LeetCode/tree/master/0649-dota2-senate) |
 | [0742-to-lower-case](https://github.com/AloysJehwin/LeetCode/tree/master/0742-to-lower-case) |
 | [0961-long-pressed-name](https://github.com/AloysJehwin/LeetCode/tree/master/0961-long-pressed-name) |
