@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/AloysJehwin/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0598-range-addition-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/AloysJehwin/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AloysJehwin/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AloysJehwin/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/AloysJehwin/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/AloysJehwin/LeetCode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0598-range-addition-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0598-range-addition-ii) |
 | [0944-smallest-range-i](https://github.com/AloysJehwin/LeetCode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/AloysJehwin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/1018-largest-perimeter-triangle) |
