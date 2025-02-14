@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AloysJehwin/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AloysJehwin/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AloysJehwin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AloysJehwin/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/AloysJehwin/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AloysJehwin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/AloysJehwin/LeetCode/tree/master/1137-height-checker) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AloysJehwin/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AloysJehwin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AloysJehwin/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/AloysJehwin/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/AloysJehwin/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AloysJehwin/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AloysJehwin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2448-count-number-of-bad-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Prefix Sum
