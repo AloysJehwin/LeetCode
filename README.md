@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/AloysJehwin/LeetCode/tree/master/0961-long-pressed-name) |
 | [1044-find-common-characters](https://github.com/AloysJehwin/LeetCode/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1274-number-of-days-between-two-dates](https://github.com/AloysJehwin/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AloysJehwin/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/AloysJehwin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/AloysJehwin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1274-number-of-days-between-two-dates](https://github.com/AloysJehwin/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AloysJehwin/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/AloysJehwin/LeetCode/tree/master/1448-maximum-69-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
