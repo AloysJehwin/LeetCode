@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AloysJehwin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AloysJehwin/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AloysJehwin/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AloysJehwin/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AloysJehwin/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AloysJehwin/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AloysJehwin/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AloysJehwin/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AloysJehwin/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AloysJehwin/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AloysJehwin/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
