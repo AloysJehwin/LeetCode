@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AloysJehwin/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/AloysJehwin/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/AloysJehwin/LeetCode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1694-make-sum-divisible-by-p](https://github.com/AloysJehwin/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AloysJehwin/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AloysJehwin/LeetCode/tree/master/0204-count-primes) |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/AloysJehwin/LeetCode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 ## Number Theory
 |  |
 | ------- |
