@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AloysJehwin/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/AloysJehwin/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/AloysJehwin/LeetCode/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/AloysJehwin/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/AloysJehwin/LeetCode/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AloysJehwin/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AloysJehwin/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/AloysJehwin/LeetCode/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/AloysJehwin/LeetCode/tree/master/0397-integer-replacement) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/AloysJehwin/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AloysJehwin/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AloysJehwin/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AloysJehwin/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AloysJehwin/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/AloysJehwin/LeetCode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/AloysJehwin/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/AloysJehwin/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/AloysJehwin/LeetCode/tree/master/0605-can-place-flowers) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AloysJehwin/LeetCode/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/AloysJehwin/LeetCode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/AloysJehwin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AloysJehwin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
