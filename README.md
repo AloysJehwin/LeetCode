@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/AloysJehwin/LeetCode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0598-range-addition-ii) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AloysJehwin/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0944-smallest-range-i](https://github.com/AloysJehwin/LeetCode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/AloysJehwin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/AloysJehwin/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/AloysJehwin/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/AloysJehwin/LeetCode/tree/master/0476-number-complement) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AloysJehwin/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AloysJehwin/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AloysJehwin/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
