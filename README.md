@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AloysJehwin/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/AloysJehwin/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AloysJehwin/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/AloysJehwin/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AloysJehwin/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/AloysJehwin/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AloysJehwin/LeetCode/tree/master/0735-asteroid-collision) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AloysJehwin/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0697-degree-of-an-array](https://github.com/AloysJehwin/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0924-fair-candy-swap](https://github.com/AloysJehwin/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AloysJehwin/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AloysJehwin/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
