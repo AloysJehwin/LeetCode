@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/AloysJehwin/LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/AloysJehwin/LeetCode/tree/master/1137-height-checker) |
 | [1364-tuple-with-same-product](https://github.com/AloysJehwin/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1386-shift-2d-grid](https://github.com/AloysJehwin/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AloysJehwin/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AloysJehwin/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/AloysJehwin/LeetCode/tree/master/1036-rotting-oranges) |
+| [1386-shift-2d-grid](https://github.com/AloysJehwin/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/AloysJehwin/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/AloysJehwin/LeetCode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0898-transpose-matrix) |
+| [1386-shift-2d-grid](https://github.com/AloysJehwin/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AloysJehwin/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/AloysJehwin/LeetCode/tree/master/1642-water-bottles) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/AloysJehwin/LeetCode/tree/master/1682-most-visited-sector-in-a-circular-track) |
