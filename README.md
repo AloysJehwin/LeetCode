@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AloysJehwin/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/AloysJehwin/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AloysJehwin/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/AloysJehwin/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AloysJehwin/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/AloysJehwin/LeetCode/tree/master/0724-find-pivot-index) |
