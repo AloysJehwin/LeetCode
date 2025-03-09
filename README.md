@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/AloysJehwin/LeetCode/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/AloysJehwin/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/AloysJehwin/LeetCode/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/AloysJehwin/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AloysJehwin/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/AloysJehwin/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AloysJehwin/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
