@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/AloysJehwin/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AloysJehwin/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/AloysJehwin/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/AloysJehwin/LeetCode/tree/master/0279-perfect-squares) |
