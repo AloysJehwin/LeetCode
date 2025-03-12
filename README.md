@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/AloysJehwin/LeetCode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/AloysJehwin/LeetCode/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/AloysJehwin/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AloysJehwin/LeetCode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/AloysJehwin/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AloysJehwin/LeetCode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AloysJehwin/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/AloysJehwin/LeetCode/tree/master/0279-perfect-squares) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AloysJehwin/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/AloysJehwin/LeetCode/tree/master/0258-add-digits) |
 ## Counting Sort
 |  |
 | ------- |
