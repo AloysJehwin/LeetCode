@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/AloysJehwin/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0871-keys-and-rooms](https://github.com/AloysJehwin/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/AloysJehwin/LeetCode/tree/master/1036-rotting-oranges) |
+| [2793-count-the-number-of-complete-components](https://github.com/AloysJehwin/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/AloysJehwin/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0871-keys-and-rooms](https://github.com/AloysJehwin/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/AloysJehwin/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [2793-count-the-number-of-complete-components](https://github.com/AloysJehwin/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Data Stream
 |  |
 | ------- |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/AloysJehwin/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AloysJehwin/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AloysJehwin/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2793-count-the-number-of-complete-components](https://github.com/AloysJehwin/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AloysJehwin/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Game Theory
 |  |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AloysJehwin/LeetCode/tree/master/0130-surrounded-regions) |
+| [2793-count-the-number-of-complete-components](https://github.com/AloysJehwin/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AloysJehwin/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Rolling Hash
 |  |
