@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AloysJehwin/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/AloysJehwin/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/AloysJehwin/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/AloysJehwin/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AloysJehwin/LeetCode/tree/master/0079-word-search) |
