@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/AloysJehwin/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/AloysJehwin/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AloysJehwin/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AloysJehwin/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AloysJehwin/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/AloysJehwin/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AloysJehwin/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/AloysJehwin/LeetCode/tree/master/0071-simplify-path) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AloysJehwin/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/AloysJehwin/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AloysJehwin/LeetCode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/AloysJehwin/LeetCode/tree/master/0089-gray-code) |
