@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AloysJehwin/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AloysJehwin/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2232-adding-spaces-to-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AloysJehwin/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AloysJehwin/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AloysJehwin/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/AloysJehwin/LeetCode/tree/master/1642-water-bottles) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/AloysJehwin/LeetCode/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AloysJehwin/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2232-adding-spaces-to-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/AloysJehwin/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/AloysJehwin/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/AloysJehwin/LeetCode/tree/master/0961-long-pressed-name) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AloysJehwin/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2232-adding-spaces-to-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AloysJehwin/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/AloysJehwin/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AloysJehwin/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AloysJehwin/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AloysJehwin/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AloysJehwin/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2232-adding-spaces-to-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AloysJehwin/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AloysJehwin/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/2470-removing-stars-from-a-string) |
