@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AloysJehwin/LeetCode/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/AloysJehwin/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0868-push-dominoes](https://github.com/AloysJehwin/LeetCode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/AloysJehwin/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/AloysJehwin/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/AloysJehwin/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/AloysJehwin/LeetCode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/AloysJehwin/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0868-push-dominoes](https://github.com/AloysJehwin/LeetCode/tree/master/0868-push-dominoes) |
 | [0961-long-pressed-name](https://github.com/AloysJehwin/LeetCode/tree/master/0961-long-pressed-name) |
 | [1044-find-common-characters](https://github.com/AloysJehwin/LeetCode/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AloysJehwin/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AloysJehwin/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/AloysJehwin/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0868-push-dominoes](https://github.com/AloysJehwin/LeetCode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/AloysJehwin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AloysJehwin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/1250-longest-common-subsequence) |
