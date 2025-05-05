@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AloysJehwin/LeetCode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/AloysJehwin/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
+| [0861-flipping-an-image](https://github.com/AloysJehwin/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/AloysJehwin/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AloysJehwin/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0861-flipping-an-image](https://github.com/AloysJehwin/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/AloysJehwin/LeetCode/tree/master/1036-rotting-oranges) |
 | [1386-shift-2d-grid](https://github.com/AloysJehwin/LeetCode/tree/master/1386-shift-2d-grid) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AloysJehwin/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/AloysJehwin/LeetCode/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/AloysJehwin/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0898-transpose-matrix) |
 | [1386-shift-2d-grid](https://github.com/AloysJehwin/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AloysJehwin/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AloysJehwin/LeetCode/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/AloysJehwin/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/AloysJehwin/LeetCode/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/AloysJehwin/LeetCode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/AloysJehwin/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/AloysJehwin/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/AloysJehwin/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AloysJehwin/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/AloysJehwin/LeetCode/tree/master/0800-letter-case-permutation) |
+| [0861-flipping-an-image](https://github.com/AloysJehwin/LeetCode/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AloysJehwin/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AloysJehwin/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
