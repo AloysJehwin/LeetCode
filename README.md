@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AloysJehwin/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AloysJehwin/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/AloysJehwin/LeetCode/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/AloysJehwin/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/AloysJehwin/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AloysJehwin/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AloysJehwin/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/AloysJehwin/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AloysJehwin/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/AloysJehwin/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/AloysJehwin/LeetCode/tree/master/0397-integer-replacement) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/AloysJehwin/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AloysJehwin/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
