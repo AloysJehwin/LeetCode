@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0598-range-addition-ii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/AloysJehwin/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0866-rectangle-overlap](https://github.com/AloysJehwin/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0944-smallest-range-i](https://github.com/AloysJehwin/LeetCode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/AloysJehwin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/AloysJehwin/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1115-valid-boomerang](https://github.com/AloysJehwin/LeetCode/tree/master/1115-valid-boomerang) |
 ## Topological Sort
 |  |
