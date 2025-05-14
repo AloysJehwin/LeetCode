@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AloysJehwin/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/AloysJehwin/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AloysJehwin/LeetCode/tree/master/0735-asteroid-collision) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/AloysJehwin/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/AloysJehwin/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/AloysJehwin/LeetCode/tree/master/0792-binary-search) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/AloysJehwin/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/AloysJehwin/LeetCode/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/AloysJehwin/LeetCode/tree/master/0456-132-pattern) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/AloysJehwin/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AloysJehwin/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AloysJehwin/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/AloysJehwin/LeetCode/tree/master/0924-fair-candy-swap) |
