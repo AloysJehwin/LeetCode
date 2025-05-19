@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AloysJehwin/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AloysJehwin/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AloysJehwin/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3321-type-of-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AloysJehwin/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/AloysJehwin/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AloysJehwin/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/AloysJehwin/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AloysJehwin/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AloysJehwin/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3321-type-of-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/AloysJehwin/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/AloysJehwin/LeetCode/tree/master/1642-water-bottles) |
 | [2448-count-number-of-bad-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AloysJehwin/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3321-type-of-triangle](https://github.com/AloysJehwin/LeetCode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
