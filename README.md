@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AloysJehwin/LeetCode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/AloysJehwin/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0454-4sum-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AloysJehwin/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AloysJehwin/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AloysJehwin/LeetCode/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/AloysJehwin/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/AloysJehwin/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/AloysJehwin/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/AloysJehwin/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/AloysJehwin/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/AloysJehwin/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AloysJehwin/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/AloysJehwin/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/AloysJehwin/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/AloysJehwin/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AloysJehwin/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
