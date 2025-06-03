@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AloysJehwin/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/AloysJehwin/LeetCode/tree/master/0792-binary-search) |
+| [0822-unique-morse-code-words](https://github.com/AloysJehwin/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/AloysJehwin/LeetCode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/AloysJehwin/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AloysJehwin/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/AloysJehwin/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/AloysJehwin/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0822-unique-morse-code-words](https://github.com/AloysJehwin/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/AloysJehwin/LeetCode/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/AloysJehwin/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AloysJehwin/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/AloysJehwin/LeetCode/tree/master/0742-to-lower-case) |
 | [0800-letter-case-permutation](https://github.com/AloysJehwin/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/AloysJehwin/LeetCode/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/AloysJehwin/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/AloysJehwin/LeetCode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/AloysJehwin/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/AloysJehwin/LeetCode/tree/master/0868-push-dominoes) |
