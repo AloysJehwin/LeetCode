@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/AloysJehwin/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/AloysJehwin/LeetCode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/AloysJehwin/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/AloysJehwin/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/AloysJehwin/LeetCode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/AloysJehwin/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/AloysJehwin/LeetCode/tree/master/0859-design-circular-deque) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/AloysJehwin/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/AloysJehwin/LeetCode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/AloysJehwin/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/AloysJehwin/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/AloysJehwin/LeetCode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/AloysJehwin/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/AloysJehwin/LeetCode/tree/master/0868-push-dominoes) |
