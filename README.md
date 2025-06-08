@@ -716,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AloysJehwin/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/AloysJehwin/LeetCode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/AloysJehwin/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AloysJehwin/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AloysJehwin/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AloysJehwin/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0386-lexicographical-numbers](https://github.com/AloysJehwin/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/AloysJehwin/LeetCode/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/AloysJehwin/LeetCode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AloysJehwin/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
