@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/AloysJehwin/LeetCode/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/AloysJehwin/LeetCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/AloysJehwin/LeetCode/tree/master/1137-height-checker) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/AloysJehwin/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/AloysJehwin/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1386-shift-2d-grid](https://github.com/AloysJehwin/LeetCode/tree/master/1386-shift-2d-grid) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AloysJehwin/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/AloysJehwin/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/AloysJehwin/LeetCode/tree/master/1044-find-common-characters) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AloysJehwin/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AloysJehwin/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AloysJehwin/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/AloysJehwin/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/AloysJehwin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/AloysJehwin/LeetCode/tree/master/0837-most-common-word) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AloysJehwin/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/AloysJehwin/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/AloysJehwin/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AloysJehwin/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
