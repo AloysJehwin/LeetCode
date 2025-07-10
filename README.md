@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/AloysJehwin/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AloysJehwin/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/AloysJehwin/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AloysJehwin/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AloysJehwin/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Linked List
 |  |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AloysJehwin/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AloysJehwin/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/AloysJehwin/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AloysJehwin/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Design
 |  |
 | ------- |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/AloysJehwin/LeetCode/tree/master/1656-count-good-triplets) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/AloysJehwin/LeetCode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AloysJehwin/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AloysJehwin/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Number Theory
 |  |
 | ------- |
