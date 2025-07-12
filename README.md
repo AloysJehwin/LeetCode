@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/AloysJehwin/LeetCode/tree/master/1115-valid-boomerang) |
 | [1236-n-th-tribonacci-number](https://github.com/AloysJehwin/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1274-number-of-days-between-two-dates](https://github.com/AloysJehwin/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
+| [1289-day-of-the-week](https://github.com/AloysJehwin/LeetCode/tree/master/1289-day-of-the-week) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AloysJehwin/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/AloysJehwin/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AloysJehwin/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
